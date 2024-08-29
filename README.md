@@ -1,2 +1,2 @@
 # FlixFinder
-A Movie Guide App using omdb api and JS
+A Movie Guide App using OMDb api and JS
